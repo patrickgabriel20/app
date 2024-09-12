@@ -59,4 +59,4 @@
 
   # Condicionais
 
-  - [] switch
+  - [x] switch
