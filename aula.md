@@ -34,8 +34,9 @@
 
   ## Operadores
 
-  - (x) Operadores de atribuição de valor 
-  - (x) Operador de contatenação
+  - (x) Operadores de atribuição de valor =
+  - (x) Operador de contatenação +
+  - [x]operadores de comparação: == != <= >= < >
 
   ## Estrutura de dados:
 
@@ -60,6 +61,7 @@
   # Condicionais
 
   - [x] switch
+  - [x] if/else
 
   ## Módulos em Node.js:
 
