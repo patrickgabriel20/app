@@ -1,14 +1,22 @@
 [
   {
-    "value": "comer",
-    "checked": true
+    "value": "estudar 2h por dia",
+    "checked": false
   },
   {
-    "value": "dormir",
-    "checked": true
+    "value": "ler 15min por dia",
+    "checked": false
   },
   {
-    "value": "sair",
+    "value": "meditar por 5min",
+    "checked": false
+  },
+  {
+    "value": "treinar todos os dias",
+    "checked": false
+  },
+  {
+    "value": "estudar 2h pra faculdade",
     "checked": false
   }
 ]
