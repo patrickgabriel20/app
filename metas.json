@@ -1,0 +1,14 @@
+[
+  {
+    "value": "comer",
+    "checked": true
+  },
+  {
+    "value": "dormir",
+    "checked": true
+  },
+  {
+    "value": "sair",
+    "checked": false
+  }
+]
